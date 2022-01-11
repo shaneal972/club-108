@@ -2,6 +2,7 @@
     width: 375px;
     margin: 0 auto;
     display: grid;
+    grid-template-columns: minmax(375px, 1fr);
 }
 
 header {
